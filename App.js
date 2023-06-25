@@ -89,14 +89,14 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     width: '200%',
     height: '100%',
-    paddingBottom:30
+    
   },
   tabBar: {
     flexDirection: 'row',
     justifyContent: 'center',
     alignItems: 'center',
     position: 'absolute',
-    top: 30,
+    top: 40,
     left: 0,
     right: 0,
     borderRadius:50,
